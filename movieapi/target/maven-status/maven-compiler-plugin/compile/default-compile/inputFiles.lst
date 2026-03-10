@@ -1,4 +1,7 @@
 /home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/controller/MovieController.java
+/home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/model/Movie.java
+/home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/repository/MovieRepository.java
+/home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/dto/MovieRequestDTO.java
 /home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/MovieapiApplication.java
-/home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/dto/MovieResponse.java
+/home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/dto/MovieResponseDTO.java
 /home/joao/projetos-java/spring-boot/movieapi/src/main/java/com/joaodddev/movieapi/service/MovieService.java
